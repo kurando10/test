@@ -1,1 +1,2 @@
-# test
+# Terrafrom minimal OCI Resources provisioning
+
