@@ -1,2 +1,7 @@
-# Terrafrom minimal OCI Resources provisioning
+## Minimal OCI Resources provisioning w/terraform
+
+Overview
+
+
+
 
